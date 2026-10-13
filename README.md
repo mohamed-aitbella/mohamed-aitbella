@@ -45,7 +45,7 @@
 |---|---|---|
 | 🛑 **[Audit de Sécurité Active Directory](https://github.com/SICROMONOCO/Project-ASRdE)** | Conduite d'un audit de sécurité sur un environnement d'entreprise simulé. Identification de vulnérabilités critiques et proposition de remédiation (GPO, VLANs, MFA) pour protéger les données métiers. | `Metasploit`, `Nmap`, `GPO`, `Windows Server` |
 | 🔍 **[Automated Security Scanner](https://github.com/mohamed-aitbella/automated-security-scanner)** | Script DevSecOps développé pour automatiser la reconnaissance réseau et générer des rapports de vulnérabilités, optimisant ainsi le temps de l'équipe IT. | `Python`, `Bash`, `Nmap API` |
-| 🛡️ **[AI-SIEM](https://github.com/mohamed-aitbella/ai-siem-project)** | Déploiement d'un SIEM et configuration de règles de détection personnalisées pour alerter en temps réel contre les attaques par force brute et les mouvements latéraux. | `Wazuh SIEM`, `XML/YAML`, `Linux` |
+| 🛡️ **[AI-SIEM](https://github.com/mohamed-aitbella/ai-siem-project)** | Moteur SIEM hybride combinant détection par règles et Machine Learning  sous Docker pour la détection en temps réel des attaques Brute Force et Mouvements Latéraux. | `SIEM`, `Python / ML`, `Docker`, `Linux` |
 
 ---
 
